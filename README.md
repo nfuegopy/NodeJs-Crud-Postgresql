@@ -9,3 +9,6 @@ Cors: Para permitir el acceso a la API.
 Estructura de Carpetas: Organización modular con config, controllers, models, routes, y services.
 Configuración Local 🔧
 Clona el repo y ejecuta npm install para instalar las dependencias. Luego, npm run dev para iniciar el servidor.
+
+#Pruebas
+Se realizaron las pruebas en Postman, cosiguiente resultados exitosos
